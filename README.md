@@ -1,5 +1,6 @@
 # Ola mundo! Meu nome é Nathália 👋
 💻 Sou uma desenvolvedora Full-stack mas prefiro trabalhar com Front-end.
+
 🌱 Atualmente estou aprendendo **C#** e explorando **ASP.NET MVC** e **Node.js**.
 
 ![Profile Banner](https://via.placeholder.com/1200x300?text=Bem-vindo+ao+meu+GitHub)
