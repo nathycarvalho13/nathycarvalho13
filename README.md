@@ -89,9 +89,16 @@ Busco estágio em programação ou uma posição júnior onde possa aplicar e ex
 ## 📬 Vamos Conectar?
 
 Estou sempre aberta a novas conexões e oportunidades! Sinta-se à vontade para me enviar uma mensagem ou conectar-se comigo nas redes sociais.
+📧 **Email**: [nathycarvalhoflu@gmail.com](mailto:nathycarvalhoflu@gmail.com)  
+🔗 **LinkedIn**: [nathalia-carvalho-de-albuquerque](https://www.linkedin.com/in/nathalia-carvalho-de-albuquerque/)  
+🔗 **GitHub**: [nathycarvalho13](https://github.com/nathycarvalho13)  
+📱 **Twitter**: [@nathycarvalho13](https://twitter.com/nathycarvalho13)
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-brightgreen)
-![GitHub](https://img.shields.io/badge/GitHub-View%20My%20Projects-blue)
+---
+
+🔗 [Meu LinkedIn](https://www.linkedin.com/in/nathalia-carvalho-de-albuquerque/)  
+🔗 [Meu GitHub](https://github.com/nathycarvalho13)  
+🔗 [Meu Twitter](https://twitter.com/nathycarvalho13)
 
 ---
 
