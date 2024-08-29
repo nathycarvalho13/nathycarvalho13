@@ -75,6 +75,7 @@ Busco estágio em programação ou uma posição júnior onde possa aplicar e ex
    - **Tecnologias:** HTML, CSS, JavaScript
    - **Link:** [Visualizar Projeto](https://star-wars-personagens.vercel.app/)
 
+demais projetos você encontra em meu portfolio: https://portfolio-projetos-omega.vercel.app/
 ---
 
 ## 🏅 Cursos Complementares
